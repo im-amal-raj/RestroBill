@@ -93,7 +93,7 @@ Bill printing
 <br>
 
 
-## Demo Video (All features included) :
+## 📺 Demo Video (All features included) :
 
 ![Demo GIF](https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/backend/main/v1/demo-files/demo.gif)
 
