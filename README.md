@@ -80,13 +80,13 @@ Open any browser and navigate to `localhost:5000`
 <div align="center">
 <div>
 Login page
-<img src="https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/backend/main/v1/demo-files/screenshots/login.png" />
+<img src="https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/main/v1/demo-files/screenshots/login.png" />
 Dashboard page
-<img src="https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/backend/main/v1/demo-files/screenshots/dash.png" />
+<img src="https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/main/v1/demo-files/screenshots/dash.png" />
 Billing page
-<img src="https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/backend/main/v1/demo-files/screenshots/billing.png" />
+<img src="https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/main/v1/demo-files/screenshots/billing.png" />
 Bill printing
-<img src="https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/backend/main/v1/demo-files/screenshots/bill.png" />
+<img src="https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/main/v1/demo-files/screenshots/bill.png" />
 </div>
 </div>
 
@@ -95,5 +95,5 @@ Bill printing
 
 ## 📺 Demo Video (All features included) :
 
-![Demo GIF](https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/backend/main/v1/demo-files/demo.gif)
+![Demo GIF](https://raw.githubusercontent.com/im-amal-raj/RestroBill/refs/heads/main/code/main/v1/demo-files/demo.gif)
 
